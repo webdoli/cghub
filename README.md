@@ -1,4 +1,4 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/webgame-786ab.appspot.com/o/cghub%2FcghubLogo_png.png?alt=media&token=85220abc-8ef1-467d-bac5-4b73a3fc02a0" />
+<img src="https://firebasestorage.googleapis.com/v0/b/webgame-786ab.appspot.com/o/cghub%2FcghubLogo.jpg?alt=media&token=4def345a-7088-40fa-bfb6-f0d8e6694be2" />
 
 # cghub
 web 3d graphic share platform
