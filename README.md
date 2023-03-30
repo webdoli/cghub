@@ -10,7 +10,7 @@ web 3d graphic share platform
 
 
 #3 install
- 1] git clone
- 2] npm install
- 3] localhost:3000 (react default) 
+ -1] git clone
+ -2] npm install
+ -3] localhost:3000 (react default) 
  
